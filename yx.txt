@@ -25,6 +25,7 @@
 47.79.91.168:443#日本东京阿里云
 
 www.wto.org:443#世贸组织
+www.speedtest.net:443#测速网
 ktff.tencentapp.cn:443#ktff维护优选
 bestcf.top:443#VPS789维护优选(移动)
 cf.877771.xyz:443#优选
