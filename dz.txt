@@ -4,8 +4,8 @@
 106.244.201.248:50000#韩国3
 210.61.97.241:81#台湾桃园
 www.wto.org:443#世贸组织
-www.visa.cn:443#www.visa.cn
+//www.visa.cn:443#www.visa.cn
 ktff.tencentapp.cn:443#ktff维护优选
 172.64.146.178:443#CF亚太1
 172.64.229.98:443#CF亚太2
-
+[2a06:98c1:310d::6812:212d]:443#CF-IPV6优选
