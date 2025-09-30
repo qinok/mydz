@@ -3,7 +3,7 @@
 [2606:4700:52::74a7:1cc3]:443#CF-IPV6
 47.239.8.172:443#香港
 www.shopify.com:443#shopify
-www.visa.cn:443#www.visa.cn
+www.visa.cn:443#visa官网
 www.wto.org:443#世贸组织
 118.223.217.35:30002#韩国1
 119.64.242.60:60002#韩国2
