@@ -20,6 +20,7 @@
 
 47.79.91.168:443#日本东京阿里云
 www.wto.org:443#世贸组织
+www.shopify.com:443#shopify
 www.speedtest.net:443#测速网
 www.visa.cn:443#www.visa.cn
 ktff.tencentapp.cn:443#ktff维护优选
