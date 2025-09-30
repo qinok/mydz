@@ -23,7 +23,7 @@
 www.wto.org:443#世贸组织
 www.shopify.com:443#shopify
 www.speedtest.net:443#测速网
-www.visa.cn:443#visa官网
+www.visa.cn:443#visa官方网站
 ktff.tencentapp.cn:443#ktff维护优选
 bestcf.top:443#VPS789维护优选(移动)
 [2606:4700:4406::ac40:9242]:443#CF-IPV6优选
