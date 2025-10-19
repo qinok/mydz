@@ -4,7 +4,7 @@
 www.shopify.com:443#shopify
 saas.sin.fan:443#saas.sin.fan
 cf.tencentapp.cn:443#cf.tencentapp.cn
-47.239.8.172:443#香港
+202.81.230.146:443#香港
 218.38.109.120:50001#韩国1
 119.64.242.60:60002#韩国2
 115.91.165.115:50000#韩国3
