@@ -33,6 +33,7 @@
 saas.sin.fan:443#saas.sin.fan
 www.wto.org:443#世贸组织
 www.shopify.com:443#shopify
+store.ubi.com:443#store.ubi.com
 www.speedtest.net:443#测速网
 www.visa.cn:443#visa官方网站
 ktff.tencentapp.cn:443#ktff维护优选
