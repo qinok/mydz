@@ -2,9 +2,10 @@
 172.64.229.108:443#CF亚太2 JP HK
 104.18.44.88:443#CF亚太3 SG HK  
 www.shopify.com:443#shopify
+store.ubi.com:443#store.ubi.com
 saas.sin.fan:443#saas.sin.fan
 cf.tencentapp.cn:443#cf.tencentapp.cn
 119.8.34.191:443#香港
 106.242.64.238:50000#韩国1
 115.91.165.115:50000#韩国2
-218.38.109.120:50001#韩国3
+//218.38.109.120:50001#韩国3
