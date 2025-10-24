@@ -5,6 +5,6 @@ www.shopify.com:443#shopify
 store.ubi.com:443#store.ubi.com
 saas.sin.fan:443#saas.sin.fan
 cf.tencentapp.cn:443#cf.tencentapp.cn
-119.8.34.191:443#香港
+202.85.53.74:443#香港
 106.242.64.238:50000#韩国1
 115.91.165.115:50000#韩国2
