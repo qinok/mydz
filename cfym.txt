@@ -1,0 +1,9 @@
+www.shopify.com:443#www.shopify.com
+store.ubi.com:443#store.ubi.com
+saas.sin.fan:443#saas.sin.fan
+mfa.gov.ua:443#mfa.gov.ua
+www.wto.org:443#www.wto.org
+cf.tencentapp.cn:443#cf.tencentapp.cn
+cf.877774.xyz:443#cf.877774.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
