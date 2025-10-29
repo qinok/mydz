@@ -7,3 +7,5 @@ cf.tencentapp.cn:443#cf.tencentapp.cn
 cf.877774.xyz:443#cf.877774.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
+cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
