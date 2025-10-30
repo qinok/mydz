@@ -1,5 +1,5 @@
 172.64.229.71:443#CF亚太1J
-172.64.154.211:443#CF亚太2SY
+172.64.146.178:443#CF亚太2SY
 104.18.40.108:443#CF亚太3S 
 saas.sin.fan:443#saas.sin.fan JD
 www.shopify.com:443#shopify S
