@@ -1,6 +1,6 @@
 172.64.229.71:443#CF亚太1J
 172.64.146.178:443#CF亚太2SY
-104.18.41.108:443#CF亚太3S 
+104.18.47.108:443#CF亚太3S 
 saas.sin.fan:443#saas.sin.fan JD
 www.shopify.com:443#shopify S
 store.ubi.com:443#store.ubi.com S
