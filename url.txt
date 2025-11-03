@@ -1,2 +1,1 @@
-//https://raw.githubusercontent.com/qinok/mydz/refs/heads/main/dz.txt
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel-sub/refs/heads/main/proxyip.txt
+https://raw.githubusercontent.com/qinok/mydz/refs/heads/main/dz.txt
