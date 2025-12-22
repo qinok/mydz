@@ -1,5 +1,5 @@
 qpt.ddnsfree.com:443#CF亚太1J
-172.64.229.79:443#CF亚太2J
+qindns.dynv6.net:443#CF亚太2J
 172.64.146.178:443#CF亚太3S
 104.18.47.108:443#CF亚太4S
 saas.sin.fan:443#saas.sin.fan J
