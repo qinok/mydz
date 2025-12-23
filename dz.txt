@@ -6,4 +6,4 @@ saas.sin.fan:443#saas.sin.fan J
 www.shopify.com:443#shopify S
 store.ubi.com:443#store.ubi.com S
 cf.tencentapp.cn:443#cf.tencentapp.cn S
-115.91.165.115:50000#韩国
+qpt.us.ci:50000#韩国
