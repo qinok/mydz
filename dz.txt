@@ -1,5 +1,5 @@
 qpt.ddnsfree.com:443#CF亚太1J
-qindns.dynv6.net:443#CF亚太2J
+qin.duia.us:443#CF亚太2J
 qpt.mine.bz:443#CF亚太3S
 qpt.ddns.net:443#CF亚太4S
 saas.sin.fan:443#saas.sin.fan J
