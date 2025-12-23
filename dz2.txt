@@ -1,10 +1,4 @@
-202.85.53.74:443#香港1
-47.239.8.172:443#香港2
-118.223.217.35:30002#韩国1
-119.64.242.60:60002#韩国2
-106.244.201.248:50000#韩国3
-www.wto.org:443#世贸组织
-210.61.97.241:81#台湾桃园
-ktff.tencentapp.cn:443#ktff维护优选
-172.64.146.178:443#CF亚太1
-172.64.229.98:443#CF亚太2
+qpt.ddnsfree.com:443#CF亚太1J
+qin.duia.us:443#CF亚太2J  https://www.duiadns.net
+qpt.mine.bz:443#CF亚太3S   https://freedns.afraid.org/subdomain/
+qpt.ddns.net:443#CF亚太4S  https://my.noip.com
