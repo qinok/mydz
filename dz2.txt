@@ -1,4 +1,4 @@
 qpt.ddnsfree.com:443#CF亚太1J   https://www.dynu.com/zh-CN/ControlPanel/DDNS
-qin.duia.us:443#CF亚太2J  https://www.duiadns.net
+qin.duia.us:443#CF亚太2J  https://www.duiadns.net/account/home.html
 qpt.mine.bz:443#CF亚太3S   https://freedns.afraid.org/subdomain/
-qpt.ddns.net:443#CF亚太4S  https://my.noip.com
+qpt.ddns.net:443#CF亚太4S  https://my.noip.com/dns/records
