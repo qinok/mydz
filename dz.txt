@@ -1,4 +1,4 @@
-qpt.ddnsfree.com:443#CF亚太1J
+qpt.cc.cd:443#CF亚太1J
 qin.duia.us:443#CF亚太2J
 qpt.mine.bz:443#CF亚太3S
 qpt.ddns.net:443#CF亚太4S
