@@ -1,5 +1,5 @@
 qpt.cc.cd:443#CF亚太1J   https://my.dnshe.com/index.php?m=domain_hub
 qin.duia.us:443#CF亚太2J  https://www.duiadns.net/account/home.html
 qpt.mine.bz:443#CF亚太3S   https://freedns.afraid.org/subdomain/
-qpt.ddns.net:443#CF亚太4S  https://my.noip.com/dns/records
+qpt.us.ci:443#CF亚太4S  https://my.dnshe.com/index.php?m=domain_hub
 qpt.abrdns.com:50000#韩国  https://www.cloudns.net/records/domain/10804852/
