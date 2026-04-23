@@ -45,6 +45,7 @@ www.speedtest.net:443#测速网
 www.visa.cn:443#visa官方网站
 ktff.tencentapp.cn:443#ktff维护优选
 bestcf.top:443#VPS789维护优选(移动)
+[2606:4700:4406::6812:2230]:443#SG
 [2606:4700:4406::ac40:9242]:443#CF-IPV6电信
 [2606:4700:52::74a7:1cc3]:443#CF-IPV6电信
 [2606:4700:54::223e:72aa]:443#CF-IPV6电信
