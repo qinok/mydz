@@ -61,7 +61,7 @@ cat <<EOF > ./config.json
     "tag": "vless-in",
     "listen": "::",
     "listen_port": 8080,
-    "users": [{ "uuid": "4ee06e75-4605-4cbd-896a-c88e7751cbbb" }],
+    "users": [{ "uuid": "ecc5129a-e92d-4664-b81e-a7cf7fa06af4" }],
     "transport": { "type": "ws", "path": "/vless" }
   }],
   "outbounds": [{ "type": "direct", "tag": "direct" }]
