@@ -1,0 +1,39 @@
+
+sudo su 
+
+ 1. 下载 sing-box 官方程序包
+wget https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-linux-amd64.tar.gz
+
+
+ 2. 解压安装包
+tar -zxvf sing-box-1.10.1-linux-amd64.tar.gz
+
+ 3. 进入程序目录
+cd sing-box-1.10.1-linux-amd64
+
+cat <<EOF > ./config.json
+{
+  "log": { "level": "info" },
+  "inbounds": [{
+    "type": "vless",
+    "tag": "vless-in",
+    "listen": "::",
+    "listen_port": 8080,
+    "users": [{ "uuid": "4ee06e75-4605-4cbd-896a-c88e7751cbbb" }],
+    "transport": { "type": "ws", "path": "/vless" }
+  }],
+  "outbounds": [{ "type": "direct", "tag": "direct" }]
+}
+EOF
+
+./sing-box run -c ./config.json  
+
+
+这是最重要的一步！GitHub 默认端口是私有的，我们需要手动公开：
+1
+点击底部的 Ports 标签页。
+2
+找到 8080 端口对应的 Local Address（或者右键点击端口选择 Copy Local Address），这才是填入客户端的“地址”。
+3
+在 Visibility 那一列，右键点击并将 Private 改为 Public。
+
