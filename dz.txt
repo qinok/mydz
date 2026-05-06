@@ -2,9 +2,9 @@ qpt.cc.cd:443#CF亚太1J
 qin.duia.us:443#CF亚太2JY
 qpt.mine.bz:443#CF亚太3SY
 qpt.duia.us:443#CF亚太4S
-saas.sin.fan:443#saas.sin.fan J
-www.shopify.com:443#shopify S
-store.ubi.com:443#store.ubi.com S
+saas.sin.fan:443#saas.sin.fan JY
+www.shopify.com:443#shopify SY
+store.ubi.com:443#store.ubi.com SY
 cf.tencentapp.cn:443#cf.tencentapp.cn S
 qpt.us.ci:443#HK
 //104.19.45.152:443#移动
