@@ -1,6 +1,6 @@
 qpt.cc.cd:443#CF亚太1J
-qin.duia.us:443#CF亚太2J
-qpt.mine.bz:443#CF亚太3S
+qin.duia.us:443#CF亚太2JY
+qpt.mine.bz:443#CF亚太3SY
 qpt.duia.us:443#CF亚太4S
 saas.sin.fan:443#saas.sin.fan J
 www.shopify.com:443#shopify S
