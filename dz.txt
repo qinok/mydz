@@ -1,7 +1,7 @@
 qpt.cc.cd:443#CF亚太1J
 qin.duia.us:443#CF亚太2JY
 qpt.mine.bz:443#CF亚太3SY
-qpt.duia.us:443#移动线路
+qpt.duia.us:8880#移动线路
 [2606:4700:91bd::183e:5c8b]:443#移动IPV6
 saas.sin.fan:443#saas.sin.fan JY
 www.shopify.com:443#shopify SY
