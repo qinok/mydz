@@ -6,5 +6,5 @@ qpt.duia.us:587#移动线路
 saas.sin.fan:443#saas.sin.fan JY
 www.shopify.com:443#shopify SY
 store.ubi.com:443#store.ubi.com SY
-cf.tencentapp.cn:443#cf.tencentapp.cn S
+//cf.tencentapp.cn:443#cf.tencentapp.cn S
 qpt.us.ci:54321#HK
