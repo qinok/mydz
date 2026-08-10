@@ -4,7 +4,7 @@ qpt.mine.bz:443#CF亚太3SY
 qpt.duia.us:587#移动线路
 [2606:4700:57::6186:7d6f]:443#电信IPV6
 [2606:4700:91bd::183e:5c8b]:443#移动IPV6
-saas.sin.fan:443#saas.sin.fan JY
+//saas.sin.fan:443#saas.sin.fan JY
 www.shopify.com:443#shopify SY
 store.ubi.com:443#store.ubi.com SY
 //cf.tencentapp.cn:443#cf.tencentapp.cn S
