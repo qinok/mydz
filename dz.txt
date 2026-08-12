@@ -1,9 +1,9 @@
-qpt.cc.cd:443#移动线路1
-qpt.duia.us:587#移动线路2
-[2606:4700:91bd::183e:5c8b]:443#移动IPV6
 qin.duia.us:443#电信线路1
 qpt.mine.bz:443#电信线路2
 [2606:4700:57::6186:7d6f]:443#电信IPV6
+qpt.cc.cd:443#移动线路1
+qpt.duia.us:587#移动线路2
+[2606:4700:91bd::183e:5c8b]:443#移动IPV6
 //saas.sin.fan:443#saas.sin.fan JY
 //www.shopify.com:443#shopify SY
 //store.ubi.com:443#store.ubi.com SY
