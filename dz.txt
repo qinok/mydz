@@ -8,4 +8,4 @@ qpt.cc.cd:443#移动线路
 //store.ubi.com:443#store.ubi.com SY
 //cf.tencentapp.cn:443#cf.tencentapp.cn S
 qpt.us.ci:54321#HK
-qpt.duia.us:443#JP
+qpt.mooo.com:34237#JP
