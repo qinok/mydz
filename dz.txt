@@ -1,5 +1,4 @@
-a1.qpt.de5.net:443#电信线路
-//qpt.mine.bz:443#电信线路
+qpt.mine.bz:443#电信线路
 //qpt.mine.bz:443#电信线路2
 [2606:4700:52:d71b:42e8:52dc:cf98:2a80]:443#电信IPV6
 qpt.cc.cd:443#移动线路
