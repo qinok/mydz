@@ -1,7 +1,7 @@
 qpt.mine.bz:443#电信线路
 [2606:4700:52:d71b:42e8:52dc:cf98:2a80]:443#电信IPV6
 qpt.cc.cd:443#移动线路
-[2606:4700:52:8a76:7169:a81d:147b:676f]:443#移动IPV6
+[2606:4700:8de7::47bc:6cec]:443#移动IPV6
 //saas.sin.fan:443#saas.sin.fan JY
 //www.shopify.com:443#shopify SY
 //store.ubi.com:443#store.ubi.com SY
