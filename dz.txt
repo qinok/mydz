@@ -1,18 +1,6 @@
-//qpt.mine.bz:443#电信线路
-//[2606:4700:52:d71b:42e8:52dc:cf98:2a80]:443#电信IPV6
-//qpt.cc.cd:443#移动线路
-//[2606:4700:8de7::47bc:6cec]:443#移动IPV6
-//qpt.us.ci:54321#HK
-//qpt.ddnsfree.com:443#JP
-//saas.sin.fan:443#saas.sin.fan JY
-//www.shopify.com:443#shopify SY
-//store.ubi.com:443#store.ubi.com SY
-//cf.tencentapp.cn:443#cf.tencentapp.cn S
-
 d1.qindns.dynv6.net:443#电信线路
 dx.qindns.dynv6.net:443#电信IPV6
 y1.qindns.dynv6.net:443#移动线路
 yd.qindns.dynv6.net:443#移动IPV6
 hk.qindns.dynv6.net:443#HK
 jp.qindns.dynv6.net:443#JP
-//18.180.147.187:8443#JP
