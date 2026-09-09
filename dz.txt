@@ -4,4 +4,4 @@ y1.qindns.dynv6.net:443#移动线路
 yd.qindns.dynv6.net:443#移动IPV6
 hk.qindns.dynv6.net:443#HK
 jp.qindns.dynv6.net:443#JP
-45.192.200.136:443#JP KIX
+//45.192.200.136:443#JP KIX
