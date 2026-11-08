@@ -15,7 +15,7 @@ hk.qpt.nya.je:443#HK
 jp.qpt.nya.je:443#JP
 sg.qpt.nya.je:443#SG
 us.qpt.nya.je:443#US
-saas.sin.fan::443#备用
+saas.sin.fan:443#备用
 
 //172.64.229.210:443#电信线路
 //[2606:4700:57::6186:7d6f]:443#电信IPV6
