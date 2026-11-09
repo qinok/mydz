@@ -1,10 +1,11 @@
-108.162.198.29:443#CF亚太1J-Trojan
-172.64.229.79:443#CF亚太2J-Trojan
-172.64.146.178:443#CF亚太3S-Trojan
-104.18.47.108:443#CF亚太4S-Trojan
-saas.sin.fan:443#saas.sin.fan J-Trojan
-www.shopify.com:443#shopify S-Trojan
-store.ubi.com:443#store.ubi.com S-Trojan
-cf.tencentapp.cn:443#cf.tencentapp.cn S-Trojan
-202.85.53.77:7000#香港 YD-Trojan
-115.91.165.115:50000#韩国-Trojan
+104.18.119.34:443#CF洛杉矶数据中心 移动
+104.18.178.76:443#CF洛杉矶数据中心 移动
+179.255.111.93:443#US | LAX
+179.255.141.74:443#US | LAX
+179.255.140.78:443#US | LAX
+23.246.154.72:443#US | SJC
+23.144.12.63:443#US | LAX
+23.246.154.104:443#US | SJC
+23.246.154.231:443#US | SJC
+23.246.154.17:443#US | SJC
+45.12.31.55:443#US | LAX
