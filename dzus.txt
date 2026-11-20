@@ -7,16 +7,7 @@ jp.qpt.nya.je:443#JP
 sg.qpt.nya.je:443#SG
 us.qpt.nya.je:443#US
 saas.sin.fan:443#备用
-mfa.gov.ua#SG
-saas.sin.fan#HK
-store.ubi.com#SG
-openai.com#JP
-cf.0sm.com#US
-www.shopify.com#KR
-cf.877774.xyz#HK
-cdns.doon.eu.org#JP
-cdn.664667.xyz#TW
-www.nexusmods.com#HK
+
 104.18.119.34:443#CF洛杉矶数据中心 移动
 154.23.161.63:443#US | LAX
 179.253.225.53:443#US | LAX
