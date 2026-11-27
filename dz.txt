@@ -15,4 +15,3 @@ hk.qpt.nya.je:8443#HK
 jp.qpt.nya.je:443#JP
 sg.qpt.nya.je:443#SG
 us.qpt.nya.je:443#US
-saas.sin.fan:443#备用
