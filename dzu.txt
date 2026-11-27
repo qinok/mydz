@@ -1,4 +1,3 @@
-//https://raw.githubusercontent.com/qinok/mydz/refs/heads/main/dz.txt
 //d1.qpt.nya.je:443#电信线路
 //dx.qpt.nya.je:443#电信IPV6
 //y1.qpt.nya.je:443#移动线路
