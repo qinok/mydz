@@ -11,7 +11,7 @@ d1.qpt.nya.je:443#电信线路
 dx.qpt.nya.je:443#电信IPV6
 y1.qpt.nya.je:443#移动线路
 yd.qpt.nya.je:443#移动IPV6
-hk.qpt.nya.je:8443#HK
+hk.qpt.nya.je:443#HK
 jp.qpt.nya.je:443#JP
 sg.qpt.nya.je:443#SG
 us.qpt.nya.je:443#US
